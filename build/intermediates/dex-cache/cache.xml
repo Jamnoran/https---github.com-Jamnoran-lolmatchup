@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jamnoran/AndroidStudioProjects/LolMatchup/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/jamnoran/AndroidStudioProjects/LolMatchup/app/build/intermediates/pre-dexed/debug/classes-15891ae4784a112a458080e556dfb2acbd7ee6a3.jar" />
+    </item>
+    <item
+        jar="/Applications/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/jamnoran/AndroidStudioProjects/LolMatchup/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-824d6ed637d9ba577e046e4ae5917d53001f477a.jar" />
+    </item>
+    <item
+        jar="/Users/jamnoran/AndroidStudioProjects/LolMatchup/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/jamnoran/AndroidStudioProjects/LolMatchup/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-65cd322645eb631bb70ad44b5327c35b39c9fa24.jar" />
+    </item>
+    <item
+        jar="/Users/jamnoran/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/jamnoran/AndroidStudioProjects/LolMatchup/app/build/intermediates/pre-dexed/debug/gson-2.2.4-be2274fc42c7119acd90b053a827cba6cc7082c4.jar" />
+    </item>
+    <item
+        jar="/Users/jamnoran/AndroidStudioProjects/LolMatchup/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/jamnoran/AndroidStudioProjects/LolMatchup/app/build/intermediates/pre-dexed/debug/classes-986bacc98bfeaff009ebbe55caaf7c12e18e0b09.jar" />
+    </item>
+    <item
+        jar="/Users/jamnoran/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.0/7ff0e000d1e27e356567f56c92af3b8ab912636f/picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="/Users/jamnoran/AndroidStudioProjects/LolMatchup/app/build/intermediates/pre-dexed/debug/picasso-2.5.0-d3d750ca4762bb492a0f665400b1ac0ff790bc99.jar" />
+    </item>
+
+</items>
