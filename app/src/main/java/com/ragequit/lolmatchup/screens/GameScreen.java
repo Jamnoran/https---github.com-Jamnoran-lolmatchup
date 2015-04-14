@@ -48,7 +48,6 @@ public class GameScreen extends Screen{
         protected String doInBackground(String... params) {
             SharedPreferences settings = MethodManager.getInstance().getSharedPreferences(MethodManager.getInstance().getString(R.string.app_name), 0);
             String summonerName = settings.getString("SUMMONER", null);
-//            String summonerName = "Jamnoran";
             Summoner summoner = new GetSummoner().summonerName(summonerName);
             Log.i(TAG, "Got summoner: " + summoner);
 
